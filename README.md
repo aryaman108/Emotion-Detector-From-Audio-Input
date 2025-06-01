@@ -64,7 +64,9 @@ Achieved **74.48% accuracy** on the RAVDESS dataset.
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
+   
 3.**Prepare the Dataset**
+
 4.**Run the file**
 
 ---
